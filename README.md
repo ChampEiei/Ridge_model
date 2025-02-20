@@ -1,11 +1,11 @@
 # Ridge_model
 
-chmppy eiei
+chdfdfdfddf
 
-checkout 
+chdfdsfdut 
 
 
-this is come from a web
+tdfdgfdgfdgweb
 
-push before pull
-xxxxx
+5566 pull
+x8d555f
