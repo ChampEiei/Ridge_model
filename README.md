@@ -1,3 +1,5 @@
 # Ridge_model
 
-eiei line new
+chmppy eiei
+
+checkout 
