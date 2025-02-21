@@ -1,0 +1,25 @@
+{% extends "blueprint.html" %}
+{% block title %}dataAnalys{% endblock title %}dataAnalys
+{% block content  %}
+<h1>
+this is a content area
+</h1>
+    <form action="{{url_for("pred")}}" method='POST'>
+        {% for i in lst %}
+        <div>
+            <input type="text" name = "{{i}}" placeholder="{{i}} " required>
+        </div>
+        
+        
+        {% endfor %}
+        <button type="sumit">Predict</button>
+
+
+    </form>
+    {% for i in data %}
+        <div>{{i}}</div>
+    {% endfor %}
+    <h2>result = {{result}}</h2>
+{% endblock  %}
+
+
